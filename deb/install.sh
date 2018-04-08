@@ -1,7 +1,7 @@
 #!/bin/bash
-echo "THIS SCRIPT WILL REBOOT YOUR SYSTEM! SAVE ANYTHING IMPORTANT!"
+echo "THIS SCRIPT WILL REBOOT YOUR SYSTEM! SAVE ANYTHING IMPORTANT BEFORE CONTINUING!"
 echo
-echo "While this script works for me, I can not guarantee this will not break your system. You have been warned."
+echo "While this script works for me, I cannot guarantee this will not break your system. You have been warned."
 echo
 read -p "Press enter to continue, or ctrl-c to cancel."
 sudo cp deb-update.sh /bin/update
