@@ -22,8 +22,8 @@ To update after installing:
 
 NOTE THAT THE INSTALL SCRIPT WILL REBOOT YOUR COMPUTER! SAVE ANYTHING IMPORTANT BEFORE INSTALLING!
 
-While this script works for me, I can not guarantee this will not break your system. You have been warned.
+While this script works for me, I cannot guarantee this will not break your system. You have been warned.
 
 
 
-Also yes. I know my code is garbage, but it works.
+Also, yes. I know my code is garbage, but it works.
