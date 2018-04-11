@@ -4,4 +4,4 @@ echo
 sudo dnf upgrade -y
 sudo dnf autoremove -y
 echo
-echo "Update complete."
+read -p "Update complete. Press enter to reboot."
