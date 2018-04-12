@@ -5,3 +5,4 @@ sudo dnf upgrade -y
 sudo dnf autoremove -y
 echo
 read -p "Update complete. Press enter to reboot."
+sudo reboot

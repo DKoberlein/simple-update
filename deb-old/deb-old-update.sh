@@ -6,3 +6,4 @@ sudo apt-get dist-upgrade -y
 sudo apt-get autoremove -y
 echo
 read -p "Update complete. Press enter to reboot."
+sudo reboot
