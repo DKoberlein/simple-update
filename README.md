@@ -1,4 +1,7 @@
-# simple-update
+# simple-update (Project moved)
+
+This project has been moved to GitLab: https://gitlab.com/DKoberlein/simple-update
+
 Scripts to make updates a little faster on Qubes, but can be used on a standard Linux distro as well.
 
 TO INSTALL:
